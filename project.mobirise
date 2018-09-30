@@ -1,0 +1,421 @@
+{
+  "settings": {
+    "name": "Aidetricot",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#9b7c93"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 22,
+    "versionPublish": "4.8.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x110-1.png",
+    "noImageResize": "",
+    "siteFonts": []
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "apprendre à tricoter",
+        "meta_descr": "appredre à tricoter, aide tricot, dépannage tricot, cours, aide, tricoter, tricot, laine, broche à tricotter, lainage,  expliquer, patron, ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/main-tricote-660x400.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/3MEsNvOM_TM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/3MEsNvOM_TM",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Apprendre à tricoter c'est facile <br>avec de l'aide c'est mieux",
+          "text": "&nbsp;Bienvenue sur aidetricot.ca&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-8",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "36",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mouton-prairie-770x425.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/odette-gros-plan-288x432.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Je me présente",
+          "text": "Odette Paquette<br><br>Cent fois, sur le métier remettez votre ouvrage ! &nbsp;Bonjour à tous.<br>Cette citation du poète, écrivain et critique français Nicolas Boileau signifie que c'est dans les choses qu'on aura travaillées et retravaillées inlassablement qu'on pourra briller et exceller. J'aurais aimé durant mon apprentissage avoir une personne ressource. Hélas ! ça n'a pas été le cas. C'est ce que je vous offre. Le petit coup de pouce qui vous permettra d'avancer plus vite et réussir tous vos projets.&nbsp;<br><br><b>Services offerts:</b><br><b>- &nbsp;Déchiffrer un patron</b><br><b>- &nbsp;Expliquer une technique&nbsp;</b><br><b>- &nbsp;Aide sur un tricot déjà en cours</b><br><b>- &nbsp;Commencer un nouveau projet</b><br><b>- &nbsp;</b><b>Rencontre individuelle</b><br><b>- &nbsp;</b>Tarif 10$ / heure&nbsp;<b><br></b><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-d",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#000000",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/chale-italiano-476x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chale-italiano-476x768-476x768.jpg",
+                "alt": "",
+                "caption": "Châle",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/chale-zoom-901x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chale-zoom-901x768-800x681.jpg",
+                "alt": "",
+                "caption": "Châle détail",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/detail-chale-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/detail-chale-1024x768-800x600.jpg",
+                "alt": "",
+                "caption": "Châle détail",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/chapeau-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chapeau-1024x768-800x600.jpg",
+                "alt": "",
+                "caption": "Chapeau feutré",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/jaccar-875x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jaccar-875x768-800x702.jpg",
+                "alt": "",
+                "caption": "Jacquard",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/chale-de-dos-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chale-de-dos-1024x768-800x600.jpg",
+                "alt": "",
+                "caption": "Châle détail",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/veste-garcon-714x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veste-garcon-714x768-714x768.jpg",
+                "alt": "",
+                "caption": "Veste garçon",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/robe-580x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/robe-580x768-580x768.jpg",
+                "alt": "",
+                "caption": "Veste fillette",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/chale-mante-1024x765.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chale-mante-1024x765-800x597.jpg",
+                "alt": "",
+                "caption": "Châle dentelle",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/veste-et-chapeau-724x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veste-et-chapeau-724x768-724x768.jpg",
+                "alt": "",
+                "caption": "Ensemble garçon",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bebe-veste-877x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bebe-veste-877x768-800x700.jpg",
+                "alt": "",
+                "caption": "Ensemble bébé",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bas-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bas-1024x768-800x600.jpg",
+                "alt": "",
+                "caption": "Bas bébé",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/chale-porte-581x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chale-porte-581x768-581x768.jpg",
+                "alt": "",
+                "caption": "Châle",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tuque-perou-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tuque-perou-1024x768-800x600.jpg",
+                "alt": "",
+                "caption": "Tuque péruvienne",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/debardeur-695x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/debardeur-695x768-695x768.jpg",
+                "alt": "",
+                "caption": "Débardeur garçon",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/pancho-602x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pancho-602x768-602x768.jpg",
+                "alt": "",
+                "caption": "Poncho fillette&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/afghan2-768x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/afghan2-768x768-768x768.jpg",
+                "alt": "",
+                "caption": "Couverture tissage suédois",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-g",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pour me joindre",
+          "subtitle": "Il me fera plaisir de répondre à toutes vos questions<br>Les champs marqués d'un astérisque sont obligatoires",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoyer</a>",
+          "form": {
+            "action": "info@aidetricot.ca",
+            "alerts": {
+              "success": "Merci votre message à été bien reçu"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-h",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
